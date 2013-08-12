@@ -1,4 +1,6 @@
-angular_training
-================
+angular
+=======
 
-personal angular training
+This is my personal angular test.
+
+other test with more info.
